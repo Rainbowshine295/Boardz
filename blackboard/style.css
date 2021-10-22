@@ -1,0 +1,35 @@
+body {
+  background-image: url("city.png");
+}
+  #myCanvas
+  {
+     border: 20px ridge saddlebrown;
+      background-color: black;
+      float: left;
+  }
+  button {
+    border-radius: 16px;
+    width: 100px;
+    height: 30px;
+  }
+  #red_chalk {
+    background-color: red;
+    color: yellow;
+  }
+  #yellow_chalk {
+    background-color: gold;
+    color: tomato;
+  }
+  #green_chalk {
+    background-color: seagreen;
+    color: wheat;
+
+  }
+  #blue_chalk {
+    background-color: skyblue;
+    color: mintcream;
+  }
+  #duster {
+    background-color: yellow;
+    color: black;
+  }
